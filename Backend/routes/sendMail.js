@@ -32,8 +32,8 @@ appointmentRouter.post("/appo", async (req, res) => {
         const transporter = nodemailer.createTransport({
             service: "gmail",
             auth: {
-                user: 'arijeetdas0523@gmail.com',
-                pass: 'zjmtbbpqbfmeywzg'
+                user: 'skskskssk@gmail.com',
+                pass: 'asdasdasdasdasdasd'
             },
         });
 
